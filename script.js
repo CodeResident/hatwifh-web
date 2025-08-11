@@ -239,7 +239,7 @@ function typeWriter() {
 
 // Copy contract address to clipboard
 function copyContractAddress() {
-    const contractText = '5cmfyAZyReGR7pnWdok9Z2wwhNApc9STjPPawsispump';
+    const contractText = '5vYupZ3L7gTXsKwNs1ULmAziPeq5z3JraBh35bpQpump';
     
     // Use modern clipboard API if available
     if (navigator.clipboard && window.isSecureContext) {
